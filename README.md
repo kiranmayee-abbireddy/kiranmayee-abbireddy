@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="300" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=💻%20Eat,%20Sleep,%20Code,%20Repeat%20💻&fontSize=20&animation=twinkling&fontColor=ffffff&fontAlignY=40" alt="coding text" />
+<img align="right" width="350" height="350" src="./coding.gif" alt="Coding" />
 
 ### 💫 About Me
 - 👋 Hi! I’m **Kiranmayee Abbireddy**, a software developer and a **Full Stack Developer**.
