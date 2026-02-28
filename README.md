@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Kiranmayee!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Thinker;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
 </div>
 
 <h3 align="center">🚀 I'm a Full Stack Developer passionate about building dynamic web applications!</h3>
