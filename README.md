@@ -5,7 +5,6 @@
 <h3 align="center">🚀 I'm a Full Stack Developer passionate about building dynamic web applications!</h3>
 
 ---
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding" />
 
 ### 💫 About Me
 - 👋 Hi! I’m **Kiranmayee Abbireddy**, a software developer and a **Full Stack Developer**.
@@ -14,8 +13,6 @@
 - 🌱 Currently learning and exploring new technologies.
 - 🤝 Open to collaboration on exciting projects!
 - 📫 Feel free to reach out to me via my socials below.
-
-<br/><br/><br/>
 
 ### 🌐 Let's Connect
 <p align="left">
