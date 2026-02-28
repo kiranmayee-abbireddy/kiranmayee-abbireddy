@@ -6,6 +6,8 @@
 
 ---
 
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" alt="coding" />
+
 ### 💫 About Me
 - 👋 Hi! I’m **Kiranmayee Abbireddy**, a software developer and a **Full Stack Developer**.
 - 💻 I am passionate about coding in **JavaScript, Three.js, Python, and React**.
