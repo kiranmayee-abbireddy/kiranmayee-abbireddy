@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="350" height="350" src="./coding.gif" alt="Coding" />
+<img align="right" width="350" height="350" src="./coder_female_aesthetic.gif" alt="Coding" />
 
 ### 💫 About Me
 - 👋 Hi! I’m **Kiranmayee Abbireddy**, a software developer and a **Full Stack Developer**.
