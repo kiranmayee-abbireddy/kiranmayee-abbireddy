@@ -1,12 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Kiranmayee!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Creative+Thinker;Always+Learning+New+Tech&center=true&width=435&vCenter=true&color=00F0FF&size=22" alt="Typing SVG" />
+  </a>
 </div>
 
 <h3 align="center">🚀 I'm a Full Stack Developer passionate about building dynamic web applications!</h3>
 
 ---
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding" />
+<img align="right" width="300" src="https://capsule-render.vercel.app/api?type=transparent&color=1572B6&height=200&text=💻%20Eat,%20Sleep,%20Code,%20Repeat%20💻&fontSize=25&animation=twinkling&fontAlignY=50" alt="coding text" />
 
 ### 💫 About Me
 - 👋 Hi! I’m **Kiranmayee Abbireddy**, a software developer and a **Full Stack Developer**.
