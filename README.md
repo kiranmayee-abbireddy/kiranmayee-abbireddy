@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" alt="coding" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding" />
 
 ### 💫 About Me
 - 👋 Hi! I’m **Kiranmayee Abbireddy**, a software developer and a **Full Stack Developer**.
@@ -141,19 +141,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranmayee-abbireddy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=kiranmayee-abbireddy&theme=shadow_green&hide_border=false" width="48%" />
   <br/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmayee-abbireddy&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiranmayee-abbireddy&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -170,10 +159,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kiranmayee-abbireddy&icon=0&color=0" />
-  </a>
-</p>
 
 </div>
